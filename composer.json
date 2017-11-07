@@ -1,5 +1,5 @@
 {
-  "name": "csgt/menu",
+  "name": "csgt/phpserial",
   "description": "",
   "authors": [
     {
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Csgt\\Menu\\": "src"
+      "Csgt\\PhpSerial\\": "src"
     }
   },
   "minimum-stability" : "stable"
